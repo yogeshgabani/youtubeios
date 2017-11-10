@@ -1,0 +1,6 @@
+framework module Pods_youtubeios {
+  umbrella header "Pods-youtubeios-umbrella.h"
+
+  export *
+  module * { export * }
+}
